@@ -8,7 +8,7 @@ Me intereso en el aprendizaje automatico y Estadistica.
 #### Lenguajes: 
 
 ![C++](https://img.shields.io/badge/C++-%23008080?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/-%23008080?style=for-the-badge&logo=R&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-%23008080?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -34,6 +34,7 @@ Me intereso en el aprendizaje automatico y Estadistica.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Nvim](https://img.shields.io/badge/NVIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/KenetC">
