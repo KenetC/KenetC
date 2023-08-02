@@ -1,7 +1,7 @@
 ### Hola, soy Kenet Chapetón 
 
 Soy estudiante de Cs de Datos de la Universidad de Buenos Aires. Ademas durante la pandemia me interece por el desarrolo web, en paricular back-end, lo que me llevo a hacer un curso de Digital House, donde forme parte de proyecto con 3 compañero\as.
-Me intereso en el aprendizaje automatico y Estadistica. 
+Me intereso en el Aprendizaje automatico y Estadistica. 
 
 ## Skills: 
 
